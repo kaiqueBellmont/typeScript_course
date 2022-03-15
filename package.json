@@ -1,0 +1,25 @@
+{
+  "name": "cursotypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiqueBellmont/TypeScriptCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiqueBellmont/TypeScriptCourse/issues"
+  },
+  "homepage": "https://github.com/kaiqueBellmont/TypeScriptCourse#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
